@@ -1,0 +1,1 @@
+A process manager that manages (fake) input process and simulate this with running of a dummy process. Inputs are located in cases file. 
